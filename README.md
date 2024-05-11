@@ -1,1 +1,1 @@
-# tech
+solving problem
